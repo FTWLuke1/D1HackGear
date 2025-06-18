@@ -68,7 +68,7 @@ Hey — I'm **D1Goat0**, a hardware hacker and pentester working on next-gen inf
 
 - 📱 TikTok: [@d1goat0](https://www.tiktok.com/@d1goat0)
 - 🎮 Discord: `d1goat0
-- 📹 YouTube: *(drop your channel link if available)*
+- 📹 YouTube:D1Goat0
 - 📧 Email: **Imlukeyo@outlook.com**
 
 ---
