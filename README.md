@@ -15,7 +15,7 @@ Whether you're a red teamer, hardware modder, or security researcher — this is
 
 ## ⚡ What Makes It Different?
 
-Most repos offer one or two scripts. We go **all-in**.
+Most repos offer one or two script topics. We go **all-in**.
 
 ### ✅ Full Package for Every Device
 
