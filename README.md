@@ -15,7 +15,7 @@ Whether you're a red teamer, hardware modder, or security researcher — this is
 
 ## ⚡ What Makes It Different?
 
-Most repos offer one or two scripts. We go **all-in**.
+Most repos offer one or two script topics. We go **all-in**.
 
 ### ✅ Full Package for Every Device
 
@@ -67,8 +67,8 @@ Hey — I'm **D1Goat0**, a hardware hacker and pentester working on next-gen inf
 ## 🌐 Socials
 
 - 📱 TikTok: [@d1goat0](https://www.tiktok.com/@d1goat0)
-- 🎮 Discord: `d1goat0#XXXX` *(add your tag)*
-- 📹 YouTube: *(drop your channel link if available)*
+- 🎮 Discord: `d1goat0
+- 📹 YouTube:D1Goat0
 - 📧 Email: **Imlukeyo@outlook.com**
 
 ---
