@@ -1,0 +1,21 @@
+{
+  "wifi":"Wi-Fi.png",
+  "ble":"Bluetooth.png",
+  "rf":"SubGHz.png",
+  "rfid":"RFID.png",
+  "ir":"IR.png",
+  "fm":"Radio.png",
+  "files":"Files.png",
+  "gps":"GPS.png",
+  "nrf":"NRF24.png",
+  "interpreter":"JavaScript.png",
+  "others":"Apps.png",
+  "clock":"Clock.png",
+  "connect":"Connect.png",
+  "config":"Config.png",
+  "priColor": "FFFF",
+  "secColor": "C618",
+  "bgColor": "0000",
+  "border":0,
+  "label":0
+}
