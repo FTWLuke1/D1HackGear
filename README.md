@@ -1,83 +1,59 @@
-# D1Goat0-PentestTools
+# L*UKE's ESP file hub
 
 <p align="center">
-  <img src="https://socialify.git.ci/FTWLuke1/D1HackGear/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto" alt="D1Goat0 Banner" />
+  <img src="https://socialify.git.ci/D1Goat0/LUKES-ESP-FILE-HUB/image?font=JetBrains+Mono&forks=1&language=1&name=1&owner=1&stargazers=1&theme=Dark" alt="LUKES-ESP-FILE-HUB" width="640" height="320" />
 </p>
 
-## 🔐 What is D1Goat0-PentestTools?
+## What is L*UKE's ESP file hub?
 
-**D1Goat0-PentestTools** is a one-stop collection of **penetration testing tools**, **firmware**, **scripts**, and **3D-printable STL files** for custom hacking devices.  
-Built by **D1Goat0**, this toolkit powers advanced security testing, infiltration missions, and hands-on hardware hacking.
+L*UKE's ESP file hub is a collection of penetration testing tools, firmware, scripts, and 3D-printable STL files for custom hacking devices.
 
-Whether you're a red teamer, hardware modder, or security researcher — this is built for you.
-
----
-
-## ⚡ What Makes It Different?
-
-Most repos offer one or two script topics. We go **all-in**.
-
-### ✅ Full Package for Every Device
-
-Every device we feature includes:
-
-- STL files for 3D-printed cases/enclosures  
-- Flashable firmware or payloads  
-- Usage instructions and setup guides  
-- Hardware links to buy or build it yourself
-
-### 🔥 Not Just Tools — Field-Tested Gear
-
-All tools are used in **real-world scenarios** by D1Goat0 and collaborators. These aren’t experiments — they’re field-tested for performance, stealth, and effectiveness.
-
-### 🚫 No Gatekeeping, No Paywall
-
-Everything here is **free**, **open**, and **ready to use**. We believe in empowering the community — not hiding behind subscriptions or locked content.
+Built by L*UKE, this toolkit supports security testing.
 
 ---
 
-## 📦 Included Categories
+## What Makes It Different
 
-- 💻 **Pen Testing Scripts** – Payloads, exploits, scanners  
-- 🧩 **STL Files** – Printable models for physical device cases  
-- 🔌 **Firmware & Flash Tools** – Pre-built or editable firmware  
-- 🛒 **Hardware Purchase Links** – Where to buy devices, chips, PCBs  
+Most repos cover one or two topics, yeah its annoying.
 
-👉 Explore the full project:  
-[📁 D1HackGear Repository](https://github.com/FTWLuke1/D1HackGear/tree/main)
+**Full package for every device.** Each featured device includes:
 
----
+- STL files for 3D-printed cases and enclosures
+- Flashable firmware or payloads
+- Setup and usage instructions
+- Links to buy or build the hardware
 
-## 💫 About Me
+**tested.** Tools are used in "real world scenarios" by L*UKE and collaborators, not just tested in theory.
 
-Hey — I'm **D1Goat0**, a hardware hacker and pentester working on next-gen infiltration tools. Here's a bit about me:
+## Included Categories
 
-- 🔭 Currently building: **Infiltra Network**
-- 🌱 Learning: **C++**, **HTML**
-- 👯 Looking to collaborate on: **PCB + Embedded Projects**
-- 🤝 Open to help with: **PCB design for Infiltra**
-- 👨‍💻 Check out all my projects: [My GitHub Projects](https://github.com/FTWLuke1/D1HackGear/tree/main)
-- 📝 I share builds and content on TikTok: [@d1goat0](https://www.tiktok.com/@d1goat0)
-- 💬 Ask me about: Hardware exploits, stealth tools, field use cases
-- 📫 Reach me: **Imlukeyo@outlook.com**
-- 📄 More about me: [My GitHub Profile](https://github.com/FTWLuke1)
+- Pen testing scripts — payloads, exploits, scanners
+- STL files — printable models for device cases
+- Firmware and flash tools — pre-built or editable
+- Hardware links — where to buy devices, chips, and PCBs
 
 ---
 
-## 🌐 Socials
+## About Me
 
-- 📱 TikTok: [@d1goat0](https://www.tiktok.com/@d1goat0)
-- 🎮 Discord: `
-- 📧 Email: **Imlukeyo@outlook.com**
+I'm Luke, im a Software Dev | Founder Engraved in creating and innovating.
+Persistence is key to success
+
+- Learning: C++, HTML
+- Looking to collaborate on: PCB + embedded projects
+- Open to help with: PCB design for Infiltra
+- Ask me about: hardware exploits, stealth tools, field use cases
+- Profile: [GitHub](https://github.com/FTWLuke1)
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ```txt
-Languages:     C, C#, C++, Python, HTML5, JavaScript, Java, Rust  
-Tools:         Git, GitHub, GitLab, GitLab CI, CMake  
-Frameworks:    NodeJS, Next.js, MUI, .NET  
-Design:        Blender, Adobe Suite, Canva  
-Hardware:      Raspberry Pi, Pi-Hole  
-Platforms:     AWS, Epic Games, EA, AMD, Meta, NVIDIA, Steam, Riot Games  
+Languages:   C, C#, C++, Python, HTML5, JavaScript, Java, Rust
+Tools:       Git, GitHub, GitLab, GitLab CI, CMake
+Frameworks:  NodeJS, Next.js, MUI, .NET
+Design:      Blender, Adobe Suite, Canva
+Hardware:    Raspberry Pi, Pi-Hole
+Platforms:   AWS, Epic Games, EA, AMD, Meta, NVIDIA, Steam, Riot Games
+```
